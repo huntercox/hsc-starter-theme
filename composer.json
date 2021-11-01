@@ -1,0 +1,8 @@
+{
+  "name": "huntercox/hsc-starter-theme",
+  "description": "My boilerplate starter-theme for new WordPress projects.",
+  "type": "wordpress-theme",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
